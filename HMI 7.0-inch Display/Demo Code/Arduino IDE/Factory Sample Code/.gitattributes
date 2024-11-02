@@ -1,1 +1,2 @@
 README.MD filter=lfs diff=lfs merge=lfs -text
+Arduino_7inch.zip filter=lfs diff=lfs merge=lfs -text
